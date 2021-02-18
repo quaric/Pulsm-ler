@@ -1,0 +1,6 @@
+float64 timeinmillis
+float64 voltage
+float64 temperature
+---
+float64 sum
+float64 raw
